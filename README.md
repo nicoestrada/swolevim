@@ -2,18 +2,6 @@
 
 **SwoleVim** is my personal Neovim 0.11 setup. It’s a Lua-based configuration featuring the **Cyberdream** colorscheme and a well-curated set of plugins, including essential tools for navigation, syntax highlighting, Git, and more. The plugin stack is managed by **Packer**.
 
-## Features
-
-- Neovim 0.11 with Lua configuration
-- **Cyberdream** colorscheme for a sleek, modern look
-- **Treesitter** for enhanced syntax highlighting
-- **Treesitter Playground** for visualizing and debugging Treesitter parsers
-- **Telescope** for fuzzy searching and file navigation
-- **Harpoon** for quick file hopping
-- **Undotree** for navigating undo history
-- **Vim Fugitive** for seamless Git integration
-- **NeoTree** for a modern file explorer
-
 ## Installation
 
 1. Clone the repository:
