@@ -1,36 +1,43 @@
 # SwoleVim: My Personal Neovim Config
 
-**SwoleVim** is my personal Neovim 0.11 setup. It’s a Lua-based config rocking the Cyberdream colorscheme and a tight plugin stack: Telescope, nvim-treesitter, Treesitter Playground, Harpoon, Undotree, and Vim Fugitive, all managed by Packer.
+**SwoleVim** is my personal Neovim 0.11 setup. It’s a Lua-based configuration featuring the **Cyberdream** colorscheme and a well-curated set of plugins, including essential tools for navigation, syntax highlighting, Git, and more. The plugin stack is managed by **Packer**.
 
 ## Features
 
-- Neovim 0.11 with Lua config
-- Cyberdream colorscheme
-- Treesitter syntax + Playground
-- Telescope for searching
-- Harpoon for file hopping
-- Undotree for undo history
-- Vim Fugitive for Git
+- Neovim 0.11 with Lua configuration
+- **Cyberdream** colorscheme for a sleek, modern look
+- **Treesitter** for enhanced syntax highlighting
+- **Treesitter Playground** for visualizing and debugging Treesitter parsers
+- **Telescope** for fuzzy searching and file navigation
+- **Harpoon** for quick file hopping
+- **Undotree** for navigating undo history
+- **Vim Fugitive** for seamless Git integration
+- **NeoTree** for a modern file explorer
 
-## Install
+## Installation
 
-1. Clone it:
+1. Clone the repository:
    ```bash
-   git clone https://github.com/nicoestrada/swolevim ~/.config/nvim 
-## Instructions
-Open Neovim, run `:PackerSync`, and restart.
+   git clone https://github.com/nicoestrada/swolevim ~/.config/nvim
 
 ## Plugins
-- packer.nvim
-- telescope.nvim
-- cyberdream.nvim
-- nvim-treesitter
-- treesitter-playground
-- harpoon
-- undotree
-- vim-fugitive
+
+Here's a list of the core plugins included in this setup:
+
+- **packer.nvim** – Plugin manager for Neovim
+- **telescope.nvim** – Fuzzy finder for files, buffers, and more
+- **cyberdream.nvim** – The color scheme for a sleek and modern aesthetic
+- **nvim-treesitter** – Advanced syntax highlighting using Treesitter
+- **treesitter-playground** – Visual interface for debugging Treesitter parsers
+- **harpoon** – File navigation and quick file hopping
+- **undotree** – Undo history visualization and navigation
+- **vim-fugitive** – Git integration for version control
+- **neo-tree.nvim** – File tree explorer with a modern UI and functionality
 
 ## License
-MIT—do what you want with it.
 
-NOTE: Since this is my personal config, I will be periodically making changes unannounced. 
+MIT — Do whatever you want with it.
+
+---
+
+> **Note**: Since this is my personal config, I make periodic changes without prior notice. Check the repo often for updates.
