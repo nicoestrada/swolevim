@@ -1,6 +1,6 @@
 # SwoleVim: My Personal Neovim Config
 
-**SwoleVim** is my personal Neovim 0.11 setup, built for speed and power. It’s a Lua-based config rocking the Cyberdream colorscheme and a tight plugin stack: Telescope, nvim-treesitter, Treesitter Playground, Harpoon, Undotree, and Vim Fugitive, all managed by Packer.
+**SwoleVim** is my personal Neovim 0.11 setup. It’s a Lua-based config rocking the Cyberdream colorscheme and a tight plugin stack: Telescope, nvim-treesitter, Treesitter Playground, Harpoon, Undotree, and Vim Fugitive, all managed by Packer.
 
 ## Features
 
@@ -16,8 +16,7 @@
 
 1. Clone it:
    ```bash
-   git clone https://github.com/yourusername/swolevim ~/.config/nvim
-    
+   git clone https://github.com/nicoestrada/swolevim ~/.config/nvim 
 ## Instructions
 Open Neovim, run `:PackerSync`, and restart.
 
@@ -33,7 +32,5 @@ Open Neovim, run `:PackerSync`, and restart.
 
 ## License
 MIT—do what you want with it.
-
-[https://github.com/nicoestrada/swolevim](https://github.com/yourusername/swolevim)
 
 NOTE: Since this is my personal config, I will be periodically making changes unannounced. 
