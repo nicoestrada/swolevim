@@ -1,7 +1,8 @@
 require("swolevim.remap")
 require("swolevim.set")
 
-vim.lsp.enable({'luals', 'pyright'})
+vim.lsp.enable({'luals', 'pyright', 'ocamlls'})
+
 vim.api.nvim_create_autocmd('LspAttach', {
 	callback = function(ev)
 		local client = vim.lsp.get_client_by_id(ev.data.client_id)
