@@ -22,10 +22,13 @@ Here's a list of the core plugins included in this setup:
 - **vim-fugitive** – Git integration for version control
 - **neo-tree.nvim** – File tree explorer with a modern UI and functionality
 
-## License
+## LSP
 
-MIT — Do whatever you want with it.
+Here's a list of the language servers that I use at the moment:
 
+- **luals** – Lua: https://github.com/LuaLS/lua-language-server
+- **pyright** – Python: https://github.com/microsoft/pyright
+- **ocaml-lsp-server**– Ocaml: https://github.com/ocaml/ocaml-lsp
 ---
 
 > **Note**: Since this is my personal config, I make periodic changes without prior notice. Check the repo often for updates.
