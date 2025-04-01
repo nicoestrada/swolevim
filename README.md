@@ -29,6 +29,7 @@ Here's a list of the language servers that I use at the moment:
 - **luals** – Lua: https://github.com/LuaLS/lua-language-server
 - **pyright** – Python: https://github.com/microsoft/pyright
 - **ocaml-lsp-server**– OCaml: https://github.com/ocaml/ocaml-lsp
+- **rust-analyzer**– Rust: ttps://github.com/rust-lang/rust-analyzer
 ---
 
 > **Note**: Since this is my personal config, I make periodic changes without prior notice. Check the repo often for updates.
