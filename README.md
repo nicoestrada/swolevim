@@ -1,4 +1,4 @@
-# SwoleVim: Neovim Config
+# SwoleVim: Neovim Config 💪
 
 **SwoleVim** is my personal Neovim 0.11 setup. It’s a Lua-based configuration featuring the **Cyberdream** colorscheme and a well-curated set of plugins, including essential tools for navigation, syntax highlighting, LSP, Git, and more. The plugin stack is managed by **Packer**.
 
